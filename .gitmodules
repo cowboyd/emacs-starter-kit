@@ -1,0 +1,3 @@
+[submodule "cowboyd"]
+	path = cowboyd
+	url = git@github.com:cowboyd/cowboyd.emacs.git
